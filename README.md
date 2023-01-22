@@ -16,9 +16,7 @@ El código consta de 3 modulos:
 
 Message broker (main server) y 3 nodos corriendo sumultaneamente (cliente + servidor)
 
-![](media/udp_p2p_chat.jpg)
-
-[![]({media/udp_p2p_chat.jpg})]({media/udp_p2p_chat.mp4} "Video Demo")
+[![](media/udp_p2p_chat.jpg)](media/udp_p2p_chat.mp4 "Video Demo")
 
 ### Validación/Uso
 
