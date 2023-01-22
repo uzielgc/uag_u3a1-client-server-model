@@ -28,7 +28,7 @@ Correr message broker (para distribuir mensajes a todos los clientes):
 Correr clientes:
     `python src/node.py`
 
-### Ooutput
+### Output
 
 Terminal 1 (message broker/server):
 ```
