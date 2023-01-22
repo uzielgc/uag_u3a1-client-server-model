@@ -18,8 +18,8 @@ Message broker (main server) y 3 nodos corriendo sumultaneamente (cliente + serv
 
 ![](media/udp_p2p_chat.jpg)
 
-Enlace al video demo:
-![](media/udp_p2p_chat.mp4)
+
+![Enlace al video demo:](media/udp_p2p_chat.mp4)
 
 ### Validación/Uso
 
