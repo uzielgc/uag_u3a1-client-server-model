@@ -12,6 +12,7 @@ El código esta comentado en los puntos clave del proceso.
 El código consta de 3 modulos:
     server.py Contiene la lógica de los servidor. (Recepción de mensajes)
     client.py Contiene la lógica del cliente. (Envío de mensajes y sobreescribe codigo de servidor.)
+    node.py Ejecutable, inicializa los procesos.
 
 Message broker (main server) y 3 nodos corriendo sumultaneamente (cliente + servidor)
 
