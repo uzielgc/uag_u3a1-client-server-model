@@ -6,7 +6,7 @@
 ## Documentación
 
 El código fuente se encuentra dentro de la carpeta [src](src).
-La evidencia en imagenes/video se encuentra en la carpeta [media](images).
+La evidencia en imagenes/video se encuentra en la carpeta [media](media).
 El código esta comentado en los puntos clave del proceso.
 
 El código consta de 3 modulos:
